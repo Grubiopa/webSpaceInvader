@@ -47,9 +47,15 @@ h2{
 #invaders{
     height: 100px;
 }
-#menu{
+#menu ul{
     text-align: center;
     padding: 1%;
     color: seashell;
     background: 777373;
+    list-style-type: none;
 }
+#menu li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+} 
