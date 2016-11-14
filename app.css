@@ -1,0 +1,35 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#noticia{
+   -webkit-column-count: 2; /* Chrome, Safari, Opera */
+   -moz-column-count: 2; /* Firefox */
+   column-count: 2;
+}
+
+#cabecera{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+h2{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.localidad{
+    float:left;
+    padding-right: 1%;
+}
+.nombre{
+    float:left;
+    padding-right: 1%;
+}
+video{
+    width: 20%;
+    height: 10%;
+}
+#videoAbajo{
+    width: 80%;
+    height: 10%;
+}
+
