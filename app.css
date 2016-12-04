@@ -1,6 +1,6 @@
 html,body{
     height: 100%;
-    width: 100%;
+    width: 98%;
     background: #c7c0c0;
 }
 #noticia{
@@ -62,3 +62,7 @@ h2{
 #menu li a{
   color:aliceblue;
 } 
+.fotosagil{
+    height: 50%;
+    width: 30%;
+}
